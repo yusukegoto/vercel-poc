@@ -4,7 +4,7 @@ module.exports = function (environment) {
   let ENV = {
     modulePrefix: 'emberjs',
     environment,
-    rootURL: '/deprecated/',
+    rootURL: '/',
     locationType: 'history',
     EmberENV: {
       FEATURES: {
