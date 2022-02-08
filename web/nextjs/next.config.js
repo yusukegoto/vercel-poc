@@ -14,6 +14,10 @@ module.exports = {
       {
         source: '/:path*',
         destination: '/:path*',
+      },
+      {
+        source: '/:path*',
+        destination: 'https://vercel-poc-ember.vercel.app/:path*',
       }
     ]
   }
