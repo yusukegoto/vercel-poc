@@ -17,7 +17,7 @@ const Home: NextPage = () => {
           Welcome to <a href="https://nextjs.org">Next.js!</a>
         </h1>
 
-        <h2>This should only deploy the Next.js App!</h2>
+        <h3>It should be using a custom domain too!!!</h3>
         
         <p className={styles.description}>
           Get started by editing{' '}
