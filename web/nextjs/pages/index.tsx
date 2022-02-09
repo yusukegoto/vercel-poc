@@ -18,6 +18,7 @@ const Home: NextPage = () => {
         </h1>
 
         <h2>This is some new text!</h2>
+        <h3>And some more text :)</h3>
 
         <p className={styles.description}>
           Get started by editing{' '}
